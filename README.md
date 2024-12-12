@@ -23,7 +23,6 @@ Colaboradores:
 - Schuler, Verónica
 - Trooper, Ivanna
 
-
 Dirección:
 - Garcia Ferreyra, Fernanda
 - Frank Buss, Elisa
